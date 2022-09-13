@@ -6,7 +6,7 @@ Projects developed at the end of block 23, in which I studied _Node.js, software
 
 ### How it works
 
-This project consisted of creating routes, with the methods POST, PUT, GET and DELETE to access a database, creating a backend application. Also, I worked with Joi to create validations.
+This project consisted of creating routes, with the methods `POST`, `PUT`, `GET` and `DELETE` to access a database, creating a backend application. Also, I worked with [Joi](https://joi.dev/api/?v=17.6.0) to create validations.
 
 ----------
 
