@@ -15,14 +15,14 @@ This project consisted of creating routes, with the methods POST, PUT, GET and D
 
 - **`/products`**: to register a new product.
 	- requisition body model:
-```
+```json
 {
   "name": "product",
 }
 ```
 - **`/sales`**: to register a new sale.
 	- requisition body model:
-```
+```json
 [
   {
     "productId": 1,
@@ -59,14 +59,14 @@ This project consisted of creating routes, with the methods POST, PUT, GET and D
 
 - **`/products/:id`**: to update a product.
  	- requisition body model:
-```
+```json
 {
   "name": "product",
 }
 ```
 - **`/sales`**: to update a sale.
 	- requisition body model:
-```
+```json
 [
   {
     "productId": 1,
